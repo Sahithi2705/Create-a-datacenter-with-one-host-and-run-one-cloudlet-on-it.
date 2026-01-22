@@ -110,6 +110,8 @@ The simulation displays:
 ##  Output Screenshot
 
 Add the console output screenshot in the `output/` folder and name it as `simulation_output.png`.
+<img width="1919" height="1120" alt="image" src="https://github.com/user-attachments/assets/6e23919b-2f80-48cd-bd8e-0473c29b6d03" />
+
 
 ---
 
