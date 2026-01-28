@@ -1,7 +1,7 @@
 package org.cloudbus.cloudsim.examples;
 
 /*
- * Title:        CloudSim Toolkit
+ * Title:        CloudSim EXP1
  * Description:   A simple example showing how to create a datacenter with one host and run one cloudlet on it. Created by 
  *Krishna Sahithi, w1, SRM UNIVERSITY
  */
