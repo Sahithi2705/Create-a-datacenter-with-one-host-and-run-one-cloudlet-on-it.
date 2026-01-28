@@ -2,11 +2,8 @@ package org.cloudbus.cloudsim.examples;
 
 /*
  * Title:        CloudSim Toolkit
- * Description:  CloudSim (Cloud Simulation) Toolkit for Modeling and Simulation
- *               of Clouds
- * Licence:      GPL - http://www.gnu.org/copyleft/gpl.html
- *
- * Copyright (c) 2009, The University of Melbourne, Australia
+ * Description:   A simple example showing how to create a datacenter with one host and run one cloudlet on it. Created by 
+ *Krishna Sahithi, w1, SRM UNIVERSITY
  */
 
 import java.text.DecimalFormat;
@@ -34,10 +31,6 @@ import org.cloudbus.cloudsim.provisioners.BwProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.PeProvisionerSimple;
 import org.cloudbus.cloudsim.provisioners.RamProvisionerSimple;
 
-/**
- * A simple example showing how to create a datacenter with one host and run one
- * cloudlet on it.
- */
 public class CloudSimExample1 {
 
 	/** The cloudlet list. */
